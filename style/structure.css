@@ -1,0 +1,12 @@
+.container {
+    box-sizing: initial;
+    margin: 0 auto;
+    max-width: 40rem;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+ .section {
+    margin-top: 25px; 
+    margin-bottom: 50px;
+ }

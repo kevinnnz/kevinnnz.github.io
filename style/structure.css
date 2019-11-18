@@ -1,12 +1,19 @@
 .container {
     box-sizing: initial;
-    margin: 0 auto;
-    max-width: 40rem;
-    padding-left: 25px;
-    padding-right: 25px;
+    max-width: 1536px;
+    padding-left: 64px;
+    padding-right: 64px;
+    margin-top: 150px;
 }
 
- .section {
-    margin-top: 25px; 
-    margin-bottom: 50px;
- }
+.section {
+    margin: 0 auto;
+    margin-top: 150px; 
+    margin-bottom: 75px;
+}
+
+.section50 {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    max-width: 50%;
+}

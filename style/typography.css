@@ -3,7 +3,7 @@ body {
 }
 
 h2 { 
-    font-size: 32px;
+    font-size: 2em;
     border-bottom-width: 5px;
 }
 
@@ -14,12 +14,12 @@ h3 {
 
 p { 
     font-size: 20px;
-    line-height: 25px;
+    line-height: 40px;
     color: #202020;
 }
 
 .display {
-    font-size: 60px;
+    font-size: 2.5em;
     font-weight: 900;
     margin-bottom: 0px;
 }
@@ -27,7 +27,7 @@ p {
 .tagline {
     font-weight: 400;
     font-size: 24px;
-    line-height: 40px;
+    line-height: 44px;
 }
 
 .articleTitle {
@@ -43,13 +43,14 @@ p {
 }
 
 .sectionHeading {
-    width: 75px;
+    width: 100%;
     border-bottom: thick solid black;
     margin-bottom: 23px;
 }
 
 a {
     text-decoration: none;
+    font-weight: bold;
     color: black;
     border-bottom: thick solid white;
     margin-bottom: 10px;
